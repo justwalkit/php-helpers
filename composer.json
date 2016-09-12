@@ -1,0 +1,24 @@
+{
+  "name": "pvds/php_helper_functions",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Wordpress shortcodes for Miky",
+  "homepage": "https://github.com/pvds/php_helper_functions/",
+  "authors": [
+    {
+      "name": "Peter van der Steen",
+      "email": "peter@miky.nl",
+      "homepage": "https://github.com/pvds"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/pvds/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
